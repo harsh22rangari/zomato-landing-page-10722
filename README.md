@@ -1,1 +1,1 @@
-#This is a Zomato landing page clone
+#This is a zomato landing page clone
